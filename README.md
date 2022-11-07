@@ -6,4 +6,5 @@ This repository contains UE source code for creating environments to capture vir
 
 ## Acknowledgements
 
-* **HPWREN <https://hpwren.ucsd.edu>** for consistently providing some of the best wildfire-related research and resources out there for public use and public good.
+- **HPWREN <https://hpwren.ucsd.edu>** for consistently providing some of the best wildfire-related research and resources out there for public use and public good.
+- **Unreal Engine 5 <https://www.unrealengine.com/en-US/unreal-engine-5>**
