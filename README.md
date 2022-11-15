@@ -6,9 +6,13 @@ This repository contains UE source code for creating environments to capture vir
 
 ## Virtual Smoke
 
-Plugins:
-- Cesium for Unreal (for digital Earth)
-- NiagaraFluids (for better smoke sims in the future)
+Dependencies:
+- Plugin: Cesium for Unreal (for digital Earth)
+- Plugin: NiagaraFluids (for better smoke sims in the future)
+- Content: Starter Content
+- Content:
+
+Dependencies:
 
 ## Acknowledgements
 
