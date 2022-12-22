@@ -156,6 +156,10 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
